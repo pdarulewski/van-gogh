@@ -3,6 +3,7 @@
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md",
+      "initial-version": "0.1.0",
       "release-type": "go",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
